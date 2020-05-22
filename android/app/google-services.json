@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474299603741",
+    "firebase_url": "https://quecomemos-4634b.firebaseio.com",
+    "project_id": "quecomemos-4634b",
+    "storage_bucket": "quecomemos-4634b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474299603741:android:da7ed8e89423782ba69ff4",
+        "android_client_info": {
+          "package_name": "com.example.que_comemos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474299603741-3dqhunsu3gerl0enucn8leialcd3rjgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYazdDf4TlKRl3DfzLFU_bXk1VGmDFak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474299603741-3dqhunsu3gerl0enucn8leialcd3rjgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
